@@ -1,0 +1,60 @@
+h1 {
+font-family: 'Cairo', sans-serif;
+    font:bold;
+    text-align: center;
+    color:cornflowerblue;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+li {
+    float: center;
+    font-family: 'Cairo', sans-serif;
+}
+
+a {
+    display: block;
+    padding: 8px;
+    background-color: cornflowerblue;
+    text-decoration: none;
+    color: black;
+}
+
+.page {
+    font-family: 'Cairo', sans-serif;
+    color:#b7bc16;
+}
+
+h2,h3,p {
+    text-align: left;
+    font-family: 'Cairo', sans-serif;
+}
+
+.contact {
+    text-align: center;
+    color:cornflowerblue;
+}
+
+body {
+    background-color: gold;
+}
+
+.detail {
+    text-align: center;
+}
+
+.products {
+        list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: left;
+}
+
+.pi {
+    font-family: 'Cairo', sans-serif;
+}  
